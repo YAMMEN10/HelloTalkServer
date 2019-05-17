@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="base64-1.0.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/base64-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ae-awt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
